@@ -1,5 +1,7 @@
 # NGINX with RTMP Streaming Module & FFMPEG
-[![Build Status](https://travis-ci.org/DavidBindloss/nginx-rtmp-ffmpeg.svg?branch=master)](https://travis-ci.org/DavidBindloss/nginx-rtmp-ffmpeg)
+[![CircleCI](https://travis-ci.org/DavidBindloss/nginx-rtmp-ffmpeg.svg?branch=master)](https://travis-ci.org/DavidBindloss/nginx-rtmp-ffmpeg)
+[![Docker Stars](https://img.shields.io/docker/stars/dbindloss/nginx-rtmp-ffmpeg.svg)][hub]
+[![Docker Pulls](https://img.shields.io/docker/pulls/dbindloss/nginx-rtmp-ffmpeg.svg)][hub]
 
 A simple easy to use all-in-one box for creating a streaming RTMP server.
 
