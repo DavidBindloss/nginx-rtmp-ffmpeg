@@ -5,9 +5,9 @@
 
 A simple easy to use all-in-one box for creating a streaming RTMP server.
 
-This project is on the [Docker Hub](https://hub.docker.com) @ [dbindloss/nginx-rtmp-ffmpeg](https://registry.hub.docker.com/u/dbindloss/nginx-rtmp-ffmpeg/), and on [GitHub](https://github.com) @ [DavidBindloss/nginx-rtmp-ffmpeg](https://github.com/DavidBindloss/nginx-rtmp-ffmpeg)
+This project is on the [Docker Hub](https://hub.docker.com) @ [dbindloss/nginx-rtmp-ffmpeg](https://registry.hub.docker.com/u/dbindloss/nginx-rtmp-ffmpeg/), and on [BitBucket](https://bitbucket.org) @ [david_bindloss/nginx-rtmp-ffmpeg](https://bitbucket.org/david_bindloss/nginx-rtmp-ffmpeg)
 
-If you have any issues, please raise them as a [GitHub tracked issue.](https://github.com/DavidBindloss/nginx-rtmp-ffmpeg/issues), I don't check the comments on Docker Hub.
+If you have any issues, please raise them as a [tracked issue.](https://bitbucket.org/david_bindloss/nginx-rtmp-ffmpeg/issues), I don't check the comments on Docker Hub.
 
 # Installation
 
