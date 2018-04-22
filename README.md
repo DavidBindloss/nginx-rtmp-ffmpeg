@@ -1,4 +1,4 @@
-# NGINX with RTMP Streaming Module & FFMPEG
+# NGINX w/ RTMP Streaming & FFMPEG
 [![CircleCI](https://travis-ci.org/DavidBindloss/nginx-rtmp-ffmpeg.svg?branch=master)](https://travis-ci.org/DavidBindloss/nginx-rtmp-ffmpeg)
 [![Docker Stars](https://img.shields.io/docker/stars/dbindloss/nginx-rtmp-ffmpeg.svg)](hub)
 [![Docker Pulls](https://img.shields.io/docker/pulls/dbindloss/nginx-rtmp-ffmpeg.svg)](hub)
